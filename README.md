@@ -13,7 +13,7 @@
 <br>
 
 ## 제작 기간 & 참여 인원
-* 2022년 2월 일 ~ 2022년 1월 28일
+* 2022년 2월 25일 ~ 
 * 참여 인원 : [김세현](https://github.com/saehyen), [김인표](https://github.com/kiminpyo), [김인환](https://github.com/inhwanK), [서영준](https://github.com/95Seo), [배지왕](https://github.com/BAE-JI-WANG)
 
 <br>
